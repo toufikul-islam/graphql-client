@@ -1,4 +1,4 @@
-# graphql server link [graphql server](https://graphql-server-beta.vercel.app/graphql)
+# Graphql Server Link [Graphql Server on Vercel](https://graphql-server-beta.vercel.app/graphql)
 
 # Getting Started with Create React App
 
